@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 )
 
+// 测试上传 123
 func main() {
 	data, err := ioutil.ReadFile("test.txt")
 	if err != nil {
