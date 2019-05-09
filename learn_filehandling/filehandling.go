@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 )
 
-// 同步测试
+// 拉取更新测试
 func main() {
 	data, err := ioutil.ReadFile("test.txt")
 	if err != nil {
