@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ffc034eb-4aa8-491b-8f4a-bc9c23bc5e82" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="ffc034eb-4aa8-491b-8f4a-bc9c23bc5e82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> origin/master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +20,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10-learn_网络编程/01TCP服务器代码编写/01TCP服务器.go">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state>
               <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
             </state>
@@ -36,15 +44,27 @@
               <folding>
                 <element signature="e#14#49#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="66">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/client.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+>>>>>>> origin/master
               <folding>
                 <element signature="e#14#44#0" expanded="true" />
               </folding>
@@ -52,11 +72,19 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../github.com/astaxie/beego/orm/types.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="840">
               <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -89,14 +117,15 @@
         <option value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/client.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/01获取文件属性/01获取文件属性.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" />
+        <option value="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="618" />
-    <option name="y" value="48" />
-    <option name="width" value="823" />
-    <option name="height" value="631" />
+    <option name="x" value="546" />
+    <option name="y" value="40" />
+    <option name="width" value="844" />
+    <option name="height" value="646" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -114,12 +143,17 @@
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="10-learn_网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="11-learn_HTTP编程" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="beego入门教程" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="11-learn_HTTP编程" type="462c0819:PsiDirectoryNode" />
+              <item name="01http服务器编写" type="462c0819:PsiDirectoryNode" />
+>>>>>>> origin/master
             </path>
           </expand>
           <select />
@@ -153,12 +187,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 02文件发送方.go">
-    <configuration name="go build 01TCP服务器.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 01http服务器编写.go">
+    <configuration name="go build 01http服务器编写.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/10-learn_网络编程/01TCP服务器代码编写/01TCP服务器.go" />
+      <filePath value="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -201,23 +235,28 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 01http服务器编写.go" />
         <item itemvalue="Go Build.go build 02文件发送方.go" />
         <item itemvalue="Go Build.go build 03简单版TCP并发服务器.go" />
         <item itemvalue="Go Build.go build client.go" />
         <item itemvalue="Go Build.go build 02TCP客户端代码编写.go" />
-        <item itemvalue="Go Build.go build 01TCP服务器.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="464" y="125" width="1416" height="881" extended-state="0" />
+=======
+    <frame x="546" y="40" width="844" height="646" extended-state="0" />
+    <editor active="true" />
+>>>>>>> origin/master
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.46254927" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20460358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3264642" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2689769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -225,7 +264,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.10141988" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4339934" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -235,6 +274,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加了传输文件TCP" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了传输文件TCP" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/08-learn_time的使用/01ticker的使用/01ticker.go">
@@ -368,21 +411,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/01获取文件属性/01获取文件属性.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#14#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="-12">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="e#14#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
