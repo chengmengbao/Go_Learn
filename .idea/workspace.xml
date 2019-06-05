@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc034eb-4aa8-491b-8f4a-bc9c23bc5e82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,11 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-              <folding>
-                <element signature="e#14#43#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="66">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -94,17 +92,6 @@
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="08-learn_time的使用" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="08-learn_time的使用" type="462c0819:PsiDirectoryNode" />
-              <item name="01ticker的使用" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
@@ -207,14 +194,15 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="546" y="40" width="844" height="646" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19242424" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20460358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22442244" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2689769" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,8 +223,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了传输文件TCP" />
-    <MESSAGE value="增加了11-learn_HTTP编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了11-learn_HTTP编程" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加了传输文件TCP" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/08-learn_time的使用/01ticker的使用/01ticker.go">
@@ -387,11 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-          <folding>
-            <element signature="e#14#43#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
