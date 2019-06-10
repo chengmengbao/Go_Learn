@@ -20,5 +20,5 @@ func main() {
 
 	//2.根据规则提取关键信息
 	res1 := reg1.FindAllStringSubmatch(buf, -1)
-	fmt.Println("res1=", res1)
+	fmt.Println("res1=", res1) //res1= [[a7c] [a9c]]
 }

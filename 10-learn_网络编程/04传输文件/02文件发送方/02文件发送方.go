@@ -76,7 +76,7 @@ func main() {
 		fmt.Println("conn.Read err3 = ", err3)
 		return
 	}
-	//如果接收的内容是ok
+	//如果接收的内容是ok，说明对方准备好了
 	if "ok" == string(recv_buf[:n]) {
 		//开始传输文件
 		sendFile(path, conn)

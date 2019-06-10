@@ -2,8 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc034eb-4aa8-491b-8f4a-bc9c23bc5e82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01-learn_面向对象/结构体的继承是嵌入组合/Go中的嵌入是组合不是继承.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11-learn_HTTP编程/05段子爬虫/05段子爬虫.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo01_redis_open.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo11_redis_getset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo12_redis_mgetmset.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo13_redis_list.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo14_redis_hash.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo15_redis_pipelining.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo16_redis_pub_sub.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-learn_正则表达式/01-正则表达式/01正则表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/04-learn_正则表达式/01-正则表达式/01正则表达式.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-learn_正则表达式/03-正则表达式/03-正则表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/04-learn_正则表达式/03-正则表达式/03-正则表达式.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-learn_正则表达式/03-正则表达式/03正则表达式.go" beforeDir="false" afterPath="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" beforeDir="false" afterPath="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/01创建第一个GoWeb程序：Hello GoWeb/demo01_hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/01创建第一个GoWeb程序：Hello GoWeb/demo01_hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/02搭建一个文件服务器/demo04_fileserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/02搭建一个文件服务器/demo04_fileserver.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/03get发送请求/03get发送请求.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/03get发送请求/03get发送请求.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/04表单操作/demo01_loginserver.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/04表单操作/demo01_loginserver.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/04表单操作/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/04表单操作/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/05验证表单/demo02_checkform.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/05验证表单/demo02_checkform.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目/05验证表单/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/05验证表单/register.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +36,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/01获取文件属性/01获取文件属性.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="-126">
+              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
               <folding>
                 <element signature="e#14#50#0" expanded="true" />
               </folding>
@@ -34,11 +47,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="161">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+              <folding>
+                <element signature="e#14#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+              <folding>
+                <element signature="e#14#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,6 +79,11 @@
         <option value="Go File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>读取响应完毕</find>
+    </findStrings>
   </component>
   <component name="GOROOT" path="F:\Go" />
   <component name="Git.Settings">
@@ -70,16 +103,30 @@
         <option value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/03简单版TCP并发服务器.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/client.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/01获取文件属性/01获取文件属性.go" />
-        <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" />
         <option value="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" />
+        <option value="$PROJECT_DIR$/04-learn_正则表达式/01-正则表达式/01正则表达式.go" />
+        <option value="$PROJECT_DIR$/04-learn_正则表达式/03-正则表达式/03-正则表达式.go" />
+        <option value="$PROJECT_DIR$/11-learn_HTTP编程/05段子爬虫/05段子爬虫.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo01_redis_open.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo11_redis_getset.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo12_redis_mgetmset.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo13_redis_list.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo14_redis_hash.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo15_redis_pipelining.go" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/Readme.md" />
+        <option value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo16_redis_pub_sub.go" />
+        <option value="$PROJECT_DIR$/01-learn_面向对象/结构体的继承是嵌入组合/Go中的嵌入是组合不是继承.go" />
+        <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" />
+        <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go" />
+        <option value="$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="546" />
-    <option name="y" value="40" />
-    <option name="width" value="844" />
-    <option name="height" value="646" />
+    <option name="x" value="632" />
+    <option name="y" value="88" />
+    <option name="width" value="809" />
+    <option name="height" value="660" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -96,13 +143,24 @@
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="11-learn_HTTP编程" type="462c0819:PsiDirectoryNode" />
+              <item name="01-learn_面向对象" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="11-learn_HTTP编程" type="462c0819:PsiDirectoryNode" />
-              <item name="01http服务器编写" type="462c0819:PsiDirectoryNode" />
+              <item name="01-learn_面向对象" type="462c0819:PsiDirectoryNode" />
+              <item name="结构体的继承是嵌入组合" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="10-learn_网络编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="10-learn_网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="05并发聊天室" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,7 +181,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -137,72 +195,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 01http服务器编写.go">
-    <configuration name="go build 01http服务器编写.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build Go中的嵌入是组合不是继承.go">
+    <configuration name="go build Go中的嵌入是组合不是继承.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go" />
+      <filePath value="$PROJECT_DIR$/01-learn_面向对象/结构体的继承是嵌入组合/Go中的嵌入是组合不是继承.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 02TCP客户端代码编写.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo13_redis_list.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/10-learn_网络编程/02TCP客户端代码编写/02TCP客户端代码编写.go" />
+      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo13_redis_list.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 02文件发送方.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo14_redis_hash.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" />
+      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo14_redis_hash.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 03简单版TCP并发服务器.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo15_redis_pipelining.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/03简单版TCP并发服务器.go" />
+      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo15_redis_pipelining.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build client.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build demo16_redis_pub_sub.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/client.go" />
+      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo16_redis_pub_sub.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 01http服务器编写.go" />
-        <item itemvalue="Go Build.go build 02文件发送方.go" />
-        <item itemvalue="Go Build.go build 03简单版TCP并发服务器.go" />
-        <item itemvalue="Go Build.go build client.go" />
-        <item itemvalue="Go Build.go build 02TCP客户端代码编写.go" />
+        <item itemvalue="Go Build.go build Go中的嵌入是组合不是继承.go" />
+        <item itemvalue="Go Build.go build demo16_redis_pub_sub.go" />
+        <item itemvalue="Go Build.go build demo15_redis_pipelining.go" />
+        <item itemvalue="Go Build.go build demo14_redis_hash.go" />
+        <item itemvalue="Go Build.go build demo13_redis_list.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="546" y="40" width="844" height="646" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20460358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09848485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2689769" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.27557755" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32480314" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,7 +268,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.4339934" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.38943896" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -355,27 +413,209 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/01获取文件属性/01获取文件属性.go">
+    <entry file="file://F:/Go/src/net/http/client.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="160">
+          <caret line="368" column="5" selection-start-line="368" selection-start-column="5" selection-end-line="368" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
+    <entry file="file://F:/Go/src/io/io.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="160">
+          <caret line="77" column="4" selection-start-line="77" selection-start-column="4" selection-end-line="77" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-learn_正则表达式/03-正则表达式/03正则表达式.go" />
+    <entry file="file://$PROJECT_DIR$/04-learn_正则表达式/03-正则表达式/03-正则表达式.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding>
-            <element signature="e#14#50#0" expanded="true" />
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-learn_正则表达式/02-正则表达式/02-正则表达式.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-learn_正则表达式/01-正则表达式/01正则表达式.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/01http服务器编写/01http服务器编写.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="272">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/04并发版网络爬虫/04并发版网络爬虫.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="76" column="16" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/01获取文件属性/01获取文件属性.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/01连接MySQL/01连接MySQL.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-learn_HTTP编程/05段子爬虫/05段子爬虫.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo01_redis_open.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#14#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo13_redis_list.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="9" selection-start-line="9" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo12_redis_mgetmset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo14_redis_hash.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo15_redis_pipelining.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#67#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-learn_面向对象/结构体的继承是嵌入组合/Go中的嵌入是组合不是继承.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/Readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="799">
+            <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo16_redis_pub_sub.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#13#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo11_redis_getset.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#14#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
+          <folding>
+            <element signature="e#14#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#14#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
