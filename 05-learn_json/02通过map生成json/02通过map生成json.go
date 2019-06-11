@@ -21,3 +21,16 @@ func main() {
 	}
 	fmt.Println("res=", string(res))
 }
+
+//打印结果
+//res= {
+//	"company": "Inter",
+//	"isok": true,
+//	"price": 666.666,
+//	"subjects": [
+//		"Go",
+//		"C++",
+//		"Python",
+//		"Java"
+//	]
+//}

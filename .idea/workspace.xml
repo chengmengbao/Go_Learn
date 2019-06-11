@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc034eb-4aa8-491b-8f4a-bc9c23bc5e82" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/01XML处理.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/servers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/01XML处理复杂版.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/servers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,44 +18,49 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="62" column="22" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-              <folding>
-                <element signature="e#14#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
-              <folding>
-                <element signature="e#14#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5098485">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/01XML处理.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="323">
+                  <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="94" />
+                  <folding>
+                    <element signature="e#14#62#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/01XML处理复杂版.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1081">
+                  <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#14#66#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/servers.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="333">
+                  <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,13 +108,21 @@
         <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go" />
+        <option value="$PROJECT_DIR$/14-learn_XML处理/01XML处理/servers.xml" />
+        <option value="$PROJECT_DIR$/14-learn_XML处理/01XML处理/01XML处理.go" />
+        <option value="$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go" />
+        <option value="$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go" />
+        <option value="$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go" />
+        <option value="$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/01XML处理.go" />
+        <option value="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/servers.xml" />
+        <option value="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/01XML处理复杂版.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="632" />
-    <option name="y" value="88" />
-    <option name="width" value="809" />
+    <option name="x" value="441" />
+    <option name="y" value="25" />
+    <option name="width" value="939" />
     <option name="height" value="660" />
   </component>
   <component name="ProjectView">
@@ -120,29 +140,48 @@
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="01-learn_面向对象" type="462c0819:PsiDirectoryNode" />
+              <item name="05-learn_json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="01-learn_面向对象" type="462c0819:PsiDirectoryNode" />
-              <item name="结构体的继承是嵌入组合" type="462c0819:PsiDirectoryNode" />
+              <item name="05-learn_json" type="462c0819:PsiDirectoryNode" />
+              <item name="01通过结构体生成json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="10-learn_网络编程" type="462c0819:PsiDirectoryNode" />
+              <item name="05-learn_json" type="462c0819:PsiDirectoryNode" />
+              <item name="02通过map生成json" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="10-learn_网络编程" type="462c0819:PsiDirectoryNode" />
-              <item name="05并发聊天室" type="462c0819:PsiDirectoryNode" />
+              <item name="05-learn_json" type="462c0819:PsiDirectoryNode" />
+              <item name="03json解码到结构体" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="11-learn_HTTP编程" type="462c0819:PsiDirectoryNode" />
+              <item name="05-learn_json" type="462c0819:PsiDirectoryNode" />
+              <item name="04json解码到map" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="14-learn_XML处理" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="14-learn_XML处理" type="462c0819:PsiDirectoryNode" />
+              <item name="01XML处理简单版" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="14-learn_XML处理" type="462c0819:PsiDirectoryNode" />
+              <item name="02XML处理复杂版" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,72 +216,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Go中的嵌入是组合不是继承.go">
-    <configuration name="go build Go中的嵌入是组合不是继承.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 01XML处理复杂版.go">
+    <configuration name="go build 01XML处理.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/01-learn_面向对象/结构体的继承是嵌入组合/Go中的嵌入是组合不是继承.go" />
+      <filePath value="$PROJECT_DIR$/14-learn_XML处理/01XML处理/01XML处理.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo13_redis_list.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 01XML处理复杂版.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo13_redis_list.go" />
+      <filePath value="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/01XML处理复杂版.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo14_redis_hash.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 01通过结构体生成json.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo14_redis_hash.go" />
+      <filePath value="$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo15_redis_pipelining.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 02通过map生成json.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo15_redis_pipelining.go" />
+      <filePath value="$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build demo16_redis_pub_sub.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 03json解码到结构体.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Go_Learn" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo16_redis_pub_sub.go" />
+      <filePath value="$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go" />
       <package value="Go_Learn" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Go中的嵌入是组合不是继承.go" />
-        <item itemvalue="Go Build.go build demo16_redis_pub_sub.go" />
-        <item itemvalue="Go Build.go build demo15_redis_pipelining.go" />
-        <item itemvalue="Go Build.go build demo14_redis_hash.go" />
-        <item itemvalue="Go Build.go build demo13_redis_list.go" />
+        <item itemvalue="Go Build.go build 01XML处理复杂版.go" />
+        <item itemvalue="Go Build.go build 01XML处理.go" />
+        <item itemvalue="Go Build.go build 03json解码到结构体.go" />
+        <item itemvalue="Go Build.go build 01通过结构体生成json.go" />
+        <item itemvalue="Go Build.go build 02通过map生成json.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26818183" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36145952" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.2029703" />
+      <window_info anchor="bottom" id="Messages" weight="0.23563218" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.27557755" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32480314" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.27394637" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5891089" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,7 +304,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了传输文件TCP" />
     <MESSAGE value="2019-06-07端午节学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-06-07端午节学习" />
+    <MESSAGE value="2019-06-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-06-11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/08-learn_time的使用/01ticker的使用/01ticker.go">
@@ -572,6 +613,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="e#14#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/02文件发送方/02文件发送方.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
@@ -582,22 +643,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/04传输文件/03文件接收方/03文件接收方.go">
+    <entry file="file://$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        <state relative-caret-position="221">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="34" />
           <folding>
-            <element signature="e#14#38#0" expanded="true" />
+            <element signature="e#14#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10-learn_网络编程/05并发聊天室/05并发聊天服务器.go">
+    <entry file="file://$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        <state relative-caret-position="578">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
           <folding>
-            <element signature="e#14#31#0" expanded="true" />
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/01XML处理.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="94" />
+          <folding>
+            <element signature="e#14#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-learn_json/04json解码到map/04json解码到map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/servers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/01XML处理复杂版.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
