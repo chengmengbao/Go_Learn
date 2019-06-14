@@ -46,3 +46,14 @@ redis本身具有发布订阅的功能，其发布订阅功能通过命令SUBSCR
 订阅者：
 
 ![Image text](https://raw.githubusercontent.com/chengmengbao/img-folder/master/mark1.png?token=AEIEPIC5D353KJ3MEE5H7ZK47J7GQ)
+
+#### 1.4 事务操作
+MULTI, EXEC,DISCARD和WATCH是构成Redis事务的基础，当然我们使用go语言对redis进行事务操作的时候本质也是使用这些命令。
+
+MULTI：开启事务
+
+EXEC：执行事务
+
+DISCARD：取消事务
+
+WATCH：监视事务中的键变化，一旦有改变则取消事务。
