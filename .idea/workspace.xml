@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc034eb-4aa8-491b-8f4a-bc9c23bc5e82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/01XML处理.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/01XML处理简单版/servers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/01XML处理复杂版.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14-learn_XML处理/02XML处理复杂版/servers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-learn_json/01通过结构体生成json/01通过结构体生成json.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-learn_json/02通过map生成json/02通过map生成json.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go" beforeDir="false" afterPath="$PROJECT_DIR$/05-learn_json/03json解码到结构体/03json解码到结构体.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/01创建第一个GoWeb程序：Hello GoWeb/demo01_hello.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/02搭建一个文件服务器/demo04_fileserver.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/03get发送请求/03get发送请求.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/04表单操作/demo01_loginserver.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/04表单操作/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/05验证表单/demo02_checkform.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/05验证表单/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/controllers/testmodel.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/controllers/testmodel.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/routers/router.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,84 +14,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/views/index.tpl">
+        <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/routers/router.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+            <state relative-caret-position="260">
+              <caret line="13" column="99" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
+              <folding>
+                <element signature="e#17#79#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06Beego之Model/beegoORM/routers/router.go">
+        <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/controllers/testmodel.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="7100">
+              <caret line="361" column="7" selection-start-line="361" selection-start-column="4" selection-end-line="361" selection-end-column="7" />
               <folding>
-                <element signature="e#17#125#0" expanded="true" />
+                <element signature="e#21#134#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/main.go">
+        <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="e#14#106#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-learn_多形参/01多形参/01多形参.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/16-learn_多形参/01多形参/02多形参.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
-              <folding>
-                <element signature="e#14#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/routers/router.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#17#111#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/models/models.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-              <folding>
-                <element signature="e#14#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -128,9 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-learn_select的使用/03select实现超时/03select实现超时.go" />
-        <option value="$PROJECT_DIR$/beego入门教程/01最小应用/main.go" />
-        <option value="$PROJECT_DIR$/10-learn_网络编程/01TCP服务器代码编写/01TCP服务器.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/02TCP客户端代码编写/02TCP客户端代码编写.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/03简单版TCP并发服务器.go" />
         <option value="$PROJECT_DIR$/10-learn_网络编程/03简单版的并发服务器/client.go" />
@@ -179,12 +117,15 @@
         <option value="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/06Beego之Model/beegoORM/routers/router.go" />
         <option value="$PROJECT_DIR$/beego入门教程/02beego_hello_project/models/models.go" />
         <option value="$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/06Beego之Model/beegoORM/controllers/testmodel.go" />
+        <option value="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/main.go" />
+        <option value="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/routers/router.go" />
+        <option value="$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/controllers/testmodel.go" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="159" />
-    <option name="y" value="298" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="17" />
     <option name="width" value="1609" />
     <option name="height" value="1050" />
   </component>
@@ -204,33 +145,13 @@
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="beego入门教程" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
               <item name="GoWeb开发实战_Beego框架实现项目" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
               <item name="GoWeb开发实战_Beego框架实现项目" type="462c0819:PsiDirectoryNode" />
-              <item name="06Beego之Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="GoWeb开发实战_Beego框架实现项目" type="462c0819:PsiDirectoryNode" />
-              <item name="06Beego之Model" type="462c0819:PsiDirectoryNode" />
-              <item name="beegoORM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Go_Learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Go_Learn" type="462c0819:PsiDirectoryNode" />
-              <item name="GoWeb开发实战_Beego框架实现项目" type="462c0819:PsiDirectoryNode" />
-              <item name="06Beego之Model" type="462c0819:PsiDirectoryNode" />
-              <item name="beegoORM" type="462c0819:PsiDirectoryNode" />
-              <item name="routers" type="462c0819:PsiDirectoryNode" />
+              <item name="06beegoORM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,7 +168,7 @@
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../beegoORM" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
@@ -326,10 +247,10 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="159" y="298" width="1609" height="1050" extended-state="0" />
+    <frame x="-4" y="17" width="1609" height="1050" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21626855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21433182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -342,7 +263,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37991267" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22598253" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -356,39 +277,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="增加了传输文件TCP" />
     <MESSAGE value="2019-06-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-06-14" />
+    <MESSAGE value="2019-06-20 beego-ORM学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-06-20 beego-ORM学习" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo12_redis_mgetmset.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-68">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo14_redis_hash.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#14#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12-learn_操作数据库/02Redis操作/demo15_redis_pipelining.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="10" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-learn_面向对象/结构体的继承是嵌入组合/Go中的嵌入是组合不是继承.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -708,16 +600,9 @@
     <entry file="file://$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/06Beego之Model/beegoORM/routers/router.go" />
     <entry file="file://$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/06Beego之Model/beegoORM/controllers/default.go" />
     <entry file="file://$PROJECT_DIR$/GoWeb开发实战(Beego框架实现项目)/06Beego之Model/beegoORM/controllers/testmodel.go" />
-    <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/views/index.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="180">
           <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="e#14#106#0" expanded="true" />
@@ -727,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/16-learn_多形参/01多形参/01多形参.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="244">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
@@ -747,7 +632,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/routers/router.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="200">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#17#111#0" expanded="true" />
@@ -765,12 +650,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06Beego之Model/beegoORM/routers/router.go">
+    <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06Beego之Model/beegoORM/routers/router.go" />
+    <entry file="file://$PROJECT_DIR$/beego入门教程/02beego_hello_project/views/index.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="475">
+          <caret line="95" column="7" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="99" selection-start-line="13" selection-start-column="99" selection-end-line="13" selection-end-column="99" />
           <folding>
-            <element signature="e#17#125#0" expanded="true" />
+            <element signature="e#17#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoWeb开发实战_Beego框架实现项目/06beegoORM/controllers/testmodel.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7100">
+          <caret line="361" column="7" selection-start-line="361" selection-start-column="4" selection-end-line="361" selection-end-column="7" />
+          <folding>
+            <element signature="e#21#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
